@@ -49,3 +49,7 @@ fun estPremier(nombre: Int): Boolean {
     }
     return true
 }
+
+
+afficherNombresPremiers(5)
+afficherFibonacci(15)
